@@ -1,0 +1,25 @@
+.bold-text, .smaller {
+  font-weight: bold;
+}
+
+.smaller {
+  font-size: 30px;
+}
+
+.button-confirm, .button-cancel {
+  font-size: 23px;
+}
+
+.button-confirm {
+  background-color: rgb(46, 174, 46);
+  color: white;
+}
+
+.div-text {
+  font-size: 23px;
+}
+
+.div.text, .child {
+  font-size: 18px;
+  font-weight: bold;
+}
